@@ -1,0 +1,22 @@
+# Defines the coding style for different editors and IDEs.
+# http://editorconfig.org
+
+# top-most EditorConfig file
+root = true
+
+# Rules for source code.
+[*]
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+indent_style = space
+indent_size = 4
+
+# Rules for tool configuration.
+[{package.json,*.yml}]
+indent_size = 2
+
+# Rules for markdown documents.
+[*.md]
+trim_trailing_whitespace = false
