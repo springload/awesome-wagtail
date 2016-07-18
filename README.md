@@ -24,6 +24,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Resources](#resources)
   - [Getting started](#getting-started)
   - [Articles](#articles)
+  - [Recipes](#recipes)
   - [Presentations](#presentations)
   - [Podcasts](#podcasts)
   - [Videos](#videos)
@@ -123,6 +124,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Articles
 
 - [Interactive 360 degree product views as a Wagtail streamfield block](http://www.djangopaths.com/interactive-360-degree-product-views-wagtail-streamfield-block/)
+
+### Recipes
+
+- [Oscar Wagtail demo project](https://github.com/pgovers/oscar-wagtail-demo) - A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
 
 ### Presentations
 
