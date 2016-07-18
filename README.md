@@ -3,7 +3,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 > A curated list of awesome packages, tutorials, videos and other cool resources from the Wagtail ecosystem.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-django](https://gitlab.com/rosarior/awesome-django) and [awesome-python](https://github.com/vinta/awesome-python) :snake:.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-django](https://gitlab.com/rosarior/awesome-django) and [awesome-python](https://github.com/vinta/awesome-python). :snake:*
 
 ## Table of Contents
 
@@ -73,7 +73,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### E-commerce
 
 - [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A wagtail module for creating invoices
-- [wagtail-saleor](https://github.com/mirumee/wagtail-saleor)
+- [wagtail-saleor](https://github.com/mirumee/wagtail-saleor) - An e-commerce application based on Wagtail and Satchless
 
 ### Security
 
