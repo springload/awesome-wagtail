@@ -16,11 +16,52 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Apps
 
-- [wagtailgmaps](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields
-- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
-- [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail
+### Blogging/news
+
+- [Puput](http://puput.readthedocs.org/) - Puput is a powerful and simple Django app to manage a blog. It uses the awesome Wagtail CMS as content management system.
+- [wagtail_blog](https://github.com/thelabnyc/wagtail_blog) - A WordPress-like blog app implemented in Wagtail.
+- [wagtailnews](https://bitbucket.org/takeflight/wagtailnews) - A plugin for Wagtail that provides news / blogging functionality.
+- [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS
+
+### Rich text editor extensions
+
+- [wagtail-readability](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into wagtail is.
 - [wagtailembedder](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields
+- [wagtailgmaps](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields
+- [Wagtail TinyMCE](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail
+- [Wagtail Froala](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
+
+### Streamfield
+
+- [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail
+- [Wagtail FontAwesome](https://github.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
+- [Wagtail Commonblocks](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail
+
+### Static site generation
+
+- [Wagtail Bakery](https://github.com/mhnbcu/wagtailbakery) - SAMPLE module for Wagtail CMS static generation with Django Bakery
+
+### Settings management
+
+- [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS
+
+### E-commerce
+
+- [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A wagtail module for creating invoices
+- [wagtail-saleor](https://github.com/mirumee/wagtail-saleor)
+
+### Security
+
+- [wagtailenforcer](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
+- [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel
+
+### Media
+
 - [wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin
+
+### Misc
+
+- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
 
 ## Tools
 
@@ -31,16 +72,19 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Getting started
 
 - [Introducing Wagtail
-](https://www.springload.co.nz/blog/introducing-wagtail/) - 
-During the last few months we have spent a good amount of time working with Wagtail, a really cool CMS built on top of the well-known Django framework.
+](https://www.springload.co.nz/blog/introducing-wagtail/) - During the last few months we have spent a good amount of time working with Wagtail, a really cool CMS built on top of the well-known Django framework.
 - [Getting started in Wagtail, a newcomer's perspective
 ](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind)
 - [Présentation de Wagtail, le dernier CMS Django
 ](http://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django) - Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.
 
+### Articles
+
+- [Interactive 360 degree product views as a Wagtail streamfield block](http://www.djangopaths.com/interactive-360-degree-product-views-wagtail-streamfield-block/)
+
 ### Presentations
 
-- [An Introduction to Wagtail](https://www.youtube.com/watch?v=glIIF-kBXf0) by Eloise "Ducky" Macdonald-Meyer - This talk is an introduction to Wagtail, a content management system built on the Python web framework, Django. 
+- [An Introduction to Wagtail](https://www.youtube.com/watch?v=glIIF-kBXf0) by Eloise "Ducky" Macdonald-Meyer - This talk is an introduction to Wagtail, a content management system built on the Python web framework, Django.
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) by Tom Dyson - Tom will explain why his agency decided to build a new CMS, share some lessons learned in running a growing open source project, and outline Wagtail's roadmap to version 2 and beyond. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015)
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) by Josh, Jordi and Rich, from the Springload dev team - An introductory session to Wagtail to showcase the main features it has to offer.
 
@@ -56,6 +100,7 @@ During the last few months we have spent a good amount of time working with Wagt
 ### Showcases
 
 - [Made with Wagtail](http://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS
+- [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
 
 ## Community
 
