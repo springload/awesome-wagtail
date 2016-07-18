@@ -9,10 +9,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## General resources
 
-- [Wagtail official site](https://wagtail.io/)
-- [Wagtail GitHub repository](https://github.com/torchbox/wagtail)
-- [Wagtail Twitter account](https://twitter.com/wagtailcms)
-- [Wagtail roadmap](https://github.com/torchbox/wagtail/wiki/Roadmap)
+- [Official site](https://wagtail.io/)
+- [GitHub repository](https://github.com/torchbox/wagtail)
+- [Twitter account](https://twitter.com/wagtailcms)
+- [Roadmap](https://github.com/torchbox/wagtail/wiki/Roadmap)
+- [Wagtail core meeting notes](https://github.com/torchbox/wagtail/wiki/Wagtail-core-meeting-notes), [Wagtail Core Meeting Notes](https://github.com/springload/wagtail-core-notes)
 
 ## Apps
 
