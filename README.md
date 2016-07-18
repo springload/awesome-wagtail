@@ -12,6 +12,19 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail official site](https://wagtail.io/)
 - [Wagtail GitHub repository](https://github.com/torchbox/wagtail)
 - [Wagtail Twitter account](https://twitter.com/wagtailcms)
+- [Wagtail roadmap](https://github.com/torchbox/wagtail/wiki/Roadmap)
+
+## Apps
+
+- [wagtailgmaps](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields
+- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
+- [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail
+- [wagtailembedder](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields
+- [wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin
+
+## Tools
+
+- [Wagtail Cookiecutter Foundation](http://wagtail.chrisdev.com/) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6
 
 ## Resources
 
@@ -39,6 +52,10 @@ During the last few months we have spent a good amount of time working with Wagt
 
 - [Wagtail screencasts: Creating and displaying pages in Wagtail
 ](https://www.youtube.com/watch?v=o_dFgr8HZYU) - This video will show you how to create and display pages using the Wagtail CMS.
+
+### Showcases
+
+- [Made with Wagtail](http://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS
 
 ## Community
 
