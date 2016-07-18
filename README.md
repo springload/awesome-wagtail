@@ -58,10 +58,27 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Media
 
 - [wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin
+- [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos) - Simple app that works similar to wagtailimages, but for embedding YouTube and Vimeo videos and music from SoundCloud. It's an integration of [django-embed-video](https://github.com/yetty/django-embed-video)
+
+### Translations
+
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into wagtail panels system.
+
+### Forms
+
+- [wagtailpolls](https://github.com/takeflight/wagtailpolls) - A plugin for adding polling capabilities to the wagtail CMS.
+- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
+- [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Misc
 
-- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
+- [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your wagtail site.
+- [Wagtail Plus](https://github.com/rfosterslo/wagtailplus) - Modular add-ons for Wagtail CMS
+- [wagtailmenus](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
+- [Wagtail Error Pages](https://github.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
+- [wagtail-metadata](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
+- [Wagtail Analytics](https://github.com/tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin
+- [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects
 
 ## Tools
 
