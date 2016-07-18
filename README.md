@@ -3,6 +3,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Wagtail ecosystem.
 
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-django](https://gitlab.com/rosarior/awesome-django) and [awesome-python](https://github.com/vinta/awesome-python).*
+
 ## Table of Contents
 
 ## General resources
