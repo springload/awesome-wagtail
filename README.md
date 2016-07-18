@@ -7,6 +7,30 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Table of Contents
 
+- [General resources](#general-resources)
+- [Apps](#apps)
+  - [Blogging/news](#bloggingnews)
+  - [Rich text editor extensions](#rich-text-editor-extensions)
+  - [Streamfield](#streamfield)
+  - [Static site generation](#static-site-generation)
+  - [Settings management](#settings-management)
+  - [E-commerce](#e-commerce)
+  - [Security](#security)
+  - [Media](#media)
+  - [Translations](#translations)
+  - [Forms](#forms)
+  - [Misc](#misc)
+- [Tools](#tools)
+- [Resources](#resources)
+  - [Getting started](#getting-started)
+  - [Articles](#articles)
+  - [Presentations](#presentations)
+  - [Podcasts](#podcasts)
+  - [Videos](#videos)
+  - [Showcases](#showcases)
+- [Community](#community)
+  - [Meetups](#meetups)
+
 ## General resources
 
 - [Official site](https://wagtail.io/)
