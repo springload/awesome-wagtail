@@ -108,7 +108,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Tools
 
-- [Wagtail Cookiecutter Foundation](http://wagtail.chrisdev.com/) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6
+- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6
 
 ## Resources
 
