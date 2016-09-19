@@ -62,6 +62,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) - Markdown fields and blocks for Wagtail.
 - [Wagtail FontAwesome](https://github.com/alexgleason/wagtailfontawesome) - Add FontAwesome icons to StreamField.
 - [Wagtail Commonblocks](https://github.com/springload/wagtailblocks) - Common StreamField blocks for Wagtail.
+- [Wagtail SVGmap](https://github.com/City-of-Helsinki/wagtail-svgmap) - ImageMap functionality for Wagtail through inline SVGs.
 
 ### Static site generation
 
