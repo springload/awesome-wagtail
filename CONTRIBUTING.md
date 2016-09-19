@@ -5,7 +5,7 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested additions should be related to Wagtail
+- Suggested additions should be related to Wagtail.
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Link to the GitHub repo, not pypi.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar.
+- Check your spelling and grammar. "Wagtail" should be written with a capital W.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 
