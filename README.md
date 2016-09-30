@@ -5,7 +5,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 *You might also like [awesome-django](https://gitlab.com/rosarior/awesome-django) and [awesome-python](https://github.com/vinta/awesome-python). :snake:*
 
-## Table of Contents
+## Contents
 
 - [General resources](#general-resources)
 - [Apps](#apps)
