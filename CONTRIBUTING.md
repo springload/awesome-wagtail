@@ -20,6 +20,8 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
+Once you submit the pull request, the links will be checked by [awesome_bot](https://github.com/dkhamsing/awesome_bot) via [our Travis build](https://travis-ci.org/springload/awesome-wagtail).
+
 ### Updating your PR
 
 A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
