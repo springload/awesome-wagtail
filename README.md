@@ -156,6 +156,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Community
 
+- [Wagtail Space](http://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 21st until 25th, Wagtail Space takes place in Arnhem, The Netherlands.
+
 ### Meetups
 
 - [Bristol Wagtail Users and Developers](https://www.meetup.com/Bristol-Wagtail-Users-and-Developers/) - The South West group (nest?) of people who work with Wagtail CMS.
