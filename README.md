@@ -37,9 +37,9 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository](https://github.com/torchbox/wagtail)
+- [GitHub repository](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
-- [Roadmap](https://github.com/torchbox/wagtail/projects/1)
+- [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 
 ## Apps
 
