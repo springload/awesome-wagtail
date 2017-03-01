@@ -135,6 +135,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Articles
 
 - [Interactive 360 degree product views as a Wagtail streamfield block](http://www.djangopaths.com/interactive-360-degree-product-views-wagtail-streamfield-block/)
+- [Extending The Functionality of Email Forms in Wagtail](https://posts-by.lb.ee/dev-wagtail-extending-the-functionality-of-email-forms-232c8469ac97)
 
 ### Recipes
 
