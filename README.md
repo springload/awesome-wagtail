@@ -117,6 +117,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Experiments](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
+- [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
 
 ## Tools
 
