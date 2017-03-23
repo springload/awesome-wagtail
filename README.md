@@ -136,6 +136,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Error Pages](https://github.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
+- [Wagtail Postgres Search Backend](https://github.com/leukeleu/wagtail-pg-search-backend) - PostgreSQL full text search backend for Wagtail CMS.
 
 ## Tools
 
