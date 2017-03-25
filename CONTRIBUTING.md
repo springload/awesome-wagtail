@@ -24,7 +24,7 @@ Once you submit the pull request, the links will be checked by [awesome_bot](htt
 
 ### Spreading the word
 
-If you want to help spread the word about this list, consider adding a mention of it in your project's README: `> Check out [Awesome Wagtail](https://github.com/springload/awesome-wagtail) for more awesome packages and resources from the Wagtail community.`
+If you want to help spread the word about this list, consider adding a mention of it in your project's README: `*Check out [Awesome Wagtail](https://github.com/springload/awesome-wagtail) for more awesome packages and resources from the Wagtail community.*`
 
 ### Updating your PR
 
