@@ -4,7 +4,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.io/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
-*You might also like [awesome-django](https://gitlab.com/rosarior/awesome-django) and [awesome-python](https://github.com/vinta/awesome-python). :snake:*
+*You might also like [Awesome Django](https://gitlab.com/rosarior/awesome-django) and [Awesome Python](https://github.com/vinta/awesome-python). :snake:*
 
 ## Contents
 
