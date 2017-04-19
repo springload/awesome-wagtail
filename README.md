@@ -204,6 +204,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [dev.hel.fi](https://github.com/City-of-Helsinki/devheldev) – City of Helsinki development site with Wagtail.
 - [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) – City of Helsinki Digital Helsinki Wagtail CMS.
 - [Secure the News](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
+- [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
+- [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 
 ## Community
 
