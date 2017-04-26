@@ -207,6 +207,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Secure the News](https://github.com/freedomofpress/securethenews) – An automated scanner and web dashboard for tracking TLS deployment across news organizations.
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
+- [RTEI](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 
 ## Community
 
