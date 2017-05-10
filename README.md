@@ -78,7 +78,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Static site generation
 
-- [Wagtail Bakery](https://github.com/mhnbcu/wagtailbakery) - SAMPLE module for Wagtail CMS static generation with Django Bakery.
+- [Wagtail-bakery](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 
 ### Settings management
 
