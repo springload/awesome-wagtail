@@ -158,6 +158,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Getting started
 
+- [Wagtail Tutorials
+](https://blog.michaelyin.info/wagtail-tutorials/) - The tutorials teach you how to create a standard blog from scratch step by step.
 - [Introducing Wagtail
 ](https://www.springload.co.nz/blog/introducing-wagtail/) - During the last few months we have spent a good amount of time working with Wagtail, a really cool CMS built on top of the well-known Django framework.
 - [Getting started in Wagtail, a newcomer's perspective
