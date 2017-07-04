@@ -172,6 +172,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail: 2 Steps for Adding Pages Outside of the CMS](https://www.caktusgroup.com/blog/2016/02/15/wagtail-2-steps-adding-pages-outside-cms/)
 - [Code blocks for Wagtail using Pygments](https://jordijoan.me/code-blocks-wagtail-using-pygments/)
 - [Adding document previews to Wagtail CMS](http://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/)
+- [Wagtail Tutorials: Build Blog Step by Step](https://blog.michaelyin.info/wagtail-tutorials/) - The tutorials teach you how to create a standard blog from scratch step by step.
 
 ### Recipes
 
