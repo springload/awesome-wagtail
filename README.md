@@ -173,6 +173,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Code blocks for Wagtail using Pygments](https://jordijoan.me/code-blocks-wagtail-using-pygments/)
 - [Adding document previews to Wagtail CMS](http://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/)
 - [Wagtail Tutorials: Build Blog Step by Step](https://blog.michaelyin.info/wagtail-tutorials/) - The tutorials teach you how to create a standard blog from scratch step by step.
+- [Python CMS Framework Review: Wagtail vs Django-CMS](https://blog.michaelyin.info/2017/06/19/python-cms-framework-review-wagtail-vs-django-cms/) - Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.
 
 ### Recipes
 
