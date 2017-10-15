@@ -91,7 +91,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### E-commerce
 
 - [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
-- [wagtail-saleor](https://github.com/mirumee/wagtail-saleor) - An e-commerce application based on Wagtail and Satchless.
 - [longclaw](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 - [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?)
 
