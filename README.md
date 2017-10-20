@@ -210,7 +210,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [PyPI - Python Package Index](https://pypi.python.org/pypi?%3Aaction=search&term=Wagtail&submit=search) - Wagtail CMS packages on the Python Package Index.
 - [Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) - Wagtail CMS projects and packages on Django Packages.
 
-
 ## Community
 
 - [Wagtail Space](http://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 21st until 25th, Wagtail Space takes place in Arnhem, The Netherlands.
