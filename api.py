@@ -36,32 +36,16 @@ def parse_subsections(section):
     return items
 
 
-def parse_apps(readme):
-    section = readme.split('## Apps\n\n')[1].split('\n\n## Tools')[0]
-    return parse_subsections(section)
-
-
-def parse_tools(readme):
-    section = readme.split('## Tools\n\n')[1].split('\n\n## Resources')[0]
-    return parse_section(section)
-
-
-def parse_resources(readme):
-    section = readme.split('## Resources\n\n')[1].split('\n\n## Community')[0]
-    return parse_subsections(section)
-
-
-def parse_sites(readme):
-    section = readme.split('## Open-source sites\n\n')[1].split('\n\n## Contribute')[0]
-    return parse_section(section)
+def cut_section(start):
+    return readme.split('## %s\n\n' % start)[1].split('\n\n## ')[0]
 
 
 def parse_readme(readme):
     return {
-        'apps': parse_apps(readme),
-        'tools': parse_tools(readme),
-        'resources': parse_resources(readme),
-        'sites': parse_sites(readme),
+        'apps': parse_subsections(cut_section('Apps')),
+        'tools': parse_section(cut_section('Tools')),
+        'resources': parse_subsections(cut_section('Resources')),
+        'sites': parse_section(cut_section('Open-source sites')),
     }
 
 
