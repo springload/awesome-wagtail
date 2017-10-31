@@ -5,7 +5,22 @@ before_script:
 - gem install awesome_bot
 script:
 - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl
+- mkdir -p dist/api/v1/
+- python api.py
+branches:
+  except:
+  - gh-pages
+deploy:
+  provider: pages
+  skip_cleanup: true
+  local_dir: dist
+  github_token: "$GITHUB_TOKEN"
+  on:
+    branch: master
 notifications:
   email: false
   slack:
     secure: Mq0Ng3mQGTyytd6s3srUIuarE+lOWzigRXvge/4p15v9vicGv1juDjaab1iJBEgmiD2+AI/EZFlJJ79fvRz1KDTvmk+YJNXrQTUgCunAmo0TvR3vGGwcFkUU2+iYDcqJHTtxmiS3PwrKynVafM02ifxrqVCc0QNC1AbyPFJ8De9aqNgjLc80PVqmkoDaKt7tmi6ZIrsfKghhxvcJmhvwHp3A93hJlkl9P4/OQn4Tj1/xa/eBxTYPcdLx/DPR5peuOplzkM0QnjQMV3JS+qFyhbfxqKAvtXlIZF0fsuPuF4aHmKQKDaHLeM8MVjJtE5jT3T0LnRCSK1Esz+ki2ewTvXbmS+WzD9CJY16qwoZ9xUYJN15jkyhYdlYm6GlKsRpf6RDclxSfFjPvrDXDnQJRTW+clTD3PxbFrp2iCkQDMxhQ1n5uR0ZKHfyAgbRdzsQRtCXXUqKI1NP59JR3ed7oSrzRttLSBIgDo52gDYuBsaF7tHi9pTNP5Ddn+FrRIPFRQO/QRN5lGm2SIlYozzbnXX8S8mv2UBE3WiO8TLY84ynNRY64b/GeH+O0iyvHo90XEHMfc0KRvwkWFpQOVaz27yAXygvqEf7Kxwl249HaK8aH8hqRh8VTw+4mt6pR56Ezt25tcFyG+aNMSlo9A7TKDkc7RF8+JIW2kPqfO7t5KBo=
+env:
+  global:
+    secure: ARqEZYC0S2lwTmcBn519pAVds0ql9WKdf9WeqlB63ZFOgwlPN9/WglTYw/A7g9MJ3n5I1WT9GJSlQqaswM/eHzTqk5a+BTcBgWLdAWaT5yFmbqkxH9kuLHCMle3kJOUsKpS5NjMb+YZl5AzkGTWaBsDQj1wAZdUw+6I71svlY/3CjVL6YW7AGbgTiW/6RF81Qm5pMJMsYZBxA6TlCfpwg0x3WEWdJCzdsSqM447L3FzY97QxZHfgAooPXgevVyjcFoR0TOIi9UtRtMlp6CnCXmhCHYS5SkyeZWgDnAq5909TcLi+sdEoOOvX2BbxoxjsfRahpODFEndhk/TZ1cofb1qA5ulU2QidfjNHaXYrYXUu1Q07rszui8irHrolxfvR1N1oBY7NNbqTJYHp1n1UC8FSWzOGzrJ3WGgk9qAh3iS6pi3EY8AUy5fmQwegcyj0awxSk5V5IbXEKlyxKRWwGAihmyn0MA0cZvAF4QTFwRfZDw9S1OkjDT6h954hNpn/GFrFq30R/tCKERt085MQ96+4ItP7o0SgSqXbsyrMSpelq6IJFe1pzEnar1uhBQdMlOvzlN5ehIK/a8vJq3q/rHXWfardw/4F2E/ExcYmx3pIw92y3W8ykIhK/8P7K7lHoEjC2M5MT55LGqzTbqdFPX5L7OmXKuRGyxKmuM7J4i4=
