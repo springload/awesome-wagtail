@@ -47,10 +47,24 @@ def parse_tools(readme):
     return tools
 
 
+def parse_sites(readme):
+    section = readme.split('## Open-source sites\n\n')[1].split('\n\n## Contribute')[0]
+
+    sites = []
+
+    for line in section.split('\n'):
+        site = parse_line(line, '')
+        print(site)
+        sites.append(site)
+
+    return sites
+
+
 def parse_readme(readme):
     return {
         'apps': parse_apps(readme),
         'tools': parse_tools(readme),
+        'sites': parse_sites(readme),
     }
 
 
