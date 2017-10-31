@@ -37,7 +37,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Showcases](#showcases)
   - [Lists](#lists)
 - [Community](#community)
-  - [Meetups](#meetups)
 - [Open-source sites](#open-source-sites)
 
 ## General resources
@@ -210,13 +209,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Community
 
-- [Wagtail Space](http://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 21st until 25th, Wagtail Space takes place in Arnhem, The Netherlands.
-
-### Meetups
-
 - [Bristol Wagtail Users and Developers](https://www.meetup.com/Bristol-Wagtail-Users-and-Developers/) - The South West group (nest?) of people who work with Wagtail CMS.
 - [Dutch Wagtail Meetup](http://www.meetup.com/Dutch-Wagtail-Meetup/) - This is a group for anyone interested in working and developing with Wagtail.
 - [Wellington Wagtail CMS Meetup](http://www.meetup.com/Wellington-Wagtail-CMS-Meetup/) - The first Wagtail CMS meetup in New Zealand!
+- [Wagtail Space](http://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 21st until 25th, Wagtail Space takes place in Arnhem, The Netherlands.
 
 ## Open-source sites
 
