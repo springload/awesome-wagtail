@@ -6,7 +6,6 @@ import json
 
 
 def parse_line(line, category):
-    print(line)
     name = line.split('](')[0][3:]
     url = line.split('](')[1].split(')')[0]
     description = '' if line[-1] == ')' else line.split(') ')[1][2:]
@@ -19,62 +18,42 @@ def parse_line(line, category):
     }
 
 
-def parse_apps(readme):
-    section = readme.split('## Apps\n\n')[1].split('\n\n## Tools')[0]
+def parse_section(section, category=''):
+    return [parse_line(l, category) for l in section.split('\n')]
+
+
+def parse_subsections(section):
     subsections = section.split('### ')[1:]
 
-    apps = []
+    items = []
 
     for subsection in subsections:
         split_section = subsection.split('\n\n')
         section_title = split_section[0]
 
-        for line in split_section[1].split('\n'):
-            app = parse_line(line, section_title)
-            apps.append(app)
+        items += parse_section(split_section[1], section_title)
 
-    return apps
+    return items
+
+
+def parse_apps(readme):
+    section = readme.split('## Apps\n\n')[1].split('\n\n## Tools')[0]
+    return parse_subsections(section)
 
 
 def parse_tools(readme):
     section = readme.split('## Tools\n\n')[1].split('\n\n## Resources')[0]
-
-    tools = []
-
-    for line in section.split('\n'):
-        tool = parse_line(line, '')
-        tools.append(tool)
-
-    return tools
+    return parse_section(section)
 
 
 def parse_resources(readme):
     section = readme.split('## Resources\n\n')[1].split('\n\n## Community')[0]
-    subsections = section.split('### ')[1:]
-
-    resources = []
-
-    for subsection in subsections:
-        split_section = subsection.split('\n\n')
-        section_title = split_section[0]
-
-        for line in split_section[1].split('\n'):
-            resource = parse_line(line, section_title)
-            resources.append(resource)
-
-    return resources
+    return parse_subsections(section)
 
 
 def parse_sites(readme):
     section = readme.split('## Open-source sites\n\n')[1].split('\n\n## Contribute')[0]
-
-    sites = []
-
-    for line in section.split('\n'):
-        site = parse_line(line, '')
-        sites.append(site)
-
-    return sites
+    return parse_section(section)
 
 
 def parse_readme(readme):
