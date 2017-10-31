@@ -17,14 +17,15 @@ def parse_line(line, category):
         'category': category,
     }
 
+
 def parse_apps(readme):
-    app_section = readme.split('## Apps')[1].split('## Tools')[0]
-    app_sections = app_section.split('### ')[1:]
+    section = readme.split('## Apps\n\n')[1].split('\n\n## Tools')[0]
+    subsections = section.split('### ')[1:]
 
     apps = []
 
-    for section in app_sections:
-        split_section = section.split('\n\n')
+    for subsection in subsections:
+        split_section = subsection.split('\n\n')
         section_title = split_section[0]
 
         for line in split_section[1].split('\n'):
@@ -34,9 +35,22 @@ def parse_apps(readme):
     return apps
 
 
+def parse_tools(readme):
+    section = readme.split('## Tools\n\n')[1].split('\n\n## Resources')[0]
+
+    tools = []
+
+    for line in section.split('\n'):
+        tool = parse_line(line, '')
+        tools.append(tool)
+
+    return tools
+
+
 def parse_readme(readme):
     return {
         'apps': parse_apps(readme),
+        'tools': parse_tools(readme),
     }
 
 
