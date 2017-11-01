@@ -73,11 +73,6 @@ if __name__ == '__main__':
     readme = open('README.md', 'r').read()
 
     try:
-        readme = readme.decode('utf-8')
-    except:
-        pass
-
-    try:
         parsed_readme = parse_readme(readme)
         json_path = './dist%s' % API_PATH
 
