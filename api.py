@@ -82,7 +82,7 @@ if __name__ == '__main__':
         json_path = './dist%s' % API_PATH
 
         with codecs.open(json_path, mode='w+', encoding='utf8') as f:
-            readme_payload = json.dumps(parsed_readme, indent=True)
+            readme_payload = json.dumps(parsed_readme, indent=True, ensure_ascii=False)
             print(readme_payload)
             f.write(readme_payload)
     except:
