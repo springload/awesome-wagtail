@@ -3,9 +3,13 @@
 from __future__ import absolute_import, unicode_literals
 
 import json
+import datetime
+
+API_PATH = '/api/v1/readme.json'
 
 
 def parse_line(line, category):
+    print(line)
     name = line.split('](')[0][3:]
     url = line.split('](')[1].split(')')[0]
     description = '' if line[-1] == ')' else line.split(') ')[1][2:]
@@ -46,12 +50,22 @@ def parse_readme(readme):
         'tools': parse_section(cut_section('Tools')),
         'resources': parse_subsections(cut_section('Resources')),
         'sites': parse_section(cut_section('Open-source sites')),
+        'metadata': {
+            'updated': '%sZ' % datetime.datetime.utcnow().isoformat(),
+        },
     }
 
 
 if __name__ == '__main__':
     readme = open('README.md', 'r').read()
-    readme_payload = parse_readme(readme)
 
-    with open('./dist/api/v1/readme.json', mode='w+', encoding='utf-8') as f:
-        f.write(json.dumps(readme_payload, indent=True))
+    try:
+        parsed_readme = parse_readme(readme)
+
+        with open('./dist%s' % API_PATH, mode='w+', encoding='utf-8') as f:
+            readme_payload = json.dumps(parsed_readme, indent=True)
+            print(readme_payload)
+            f.write(readme_payload)
+    except:
+        print('Is the README well formatted?')
+        raise
