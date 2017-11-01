@@ -34,3 +34,9 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 - Ensure the pull request adheres to the [contribution guidelines](#contribution-guidelines).
 - When merging the PR, consider [suggesting the addition of the list](#spreading-the-word).
+
+### Reusing the content
+
+The content of this list is published as an API hosted on [GitHub Pages](https://pages.github.com/): [https://springload.github.io/awesome-wagtail/api/v1/readme.json](https://springload.github.io/awesome-wagtail/api/v1/readme.json).
+
+Otherwise, the README content can also be fetched with [RawGit](https://rawgit.com/): [https://rawgit.com/springload/awesome-wagtail/master/README.md](https://rawgit.com/springload/awesome-wagtail/master/README.md).
