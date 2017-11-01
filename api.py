@@ -15,6 +15,7 @@
 from __future__ import absolute_import, unicode_literals
 
 import json
+import codecs
 import datetime
 
 API_PATH = '/api/v1/readme.json'
@@ -72,9 +73,15 @@ if __name__ == '__main__':
     readme = open('README.md', 'r').read()
 
     try:
-        parsed_readme = parse_readme(readme)
+        readme = readme.decode('utf-8')
+    except:
+        pass
 
-        with open('./dist%s' % API_PATH, mode='w+', encoding='utf-8') as f:
+    try:
+        parsed_readme = parse_readme(readme)
+        json_path = './dist%s' % API_PATH
+
+        with codecs.open(json_path, mode='w+', encoding='utf8') as f:
             readme_payload = json.dumps(parsed_readme, indent=True)
             print(readme_payload)
             f.write(readme_payload)
