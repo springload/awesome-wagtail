@@ -14,7 +14,8 @@ Please ensure your pull request adheres to the following guidelines:
 - Link to the GitHub repo, not pypi.
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
-- Check your spelling and grammar. "Wagtail" should be written with a capital W.
+- Check your spelling and grammar.
+- Wagtail should be referred to as "Wagtail" instead of "Wagtail CMS", with a capital W.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title and include a link to the package and why it should be included.
 
