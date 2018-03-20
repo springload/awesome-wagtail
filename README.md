@@ -237,7 +237,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Please read the [contribution guidelines](.github/CONTRIBUTING.md) first.
 
 ## License
 
