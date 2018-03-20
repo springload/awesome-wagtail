@@ -5,7 +5,7 @@ before_script:
 - gem install awesome_bot
 script:
 - awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl
-- mkdir -p dist/api/v1/ && python api.py
+- mkdir -p dist/api/v1/ && python .github/api.py
 branches:
   except:
   - gh-pages
