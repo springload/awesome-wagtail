@@ -115,7 +115,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [wagtailenforcer](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
 - [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
-- [wagtail-2fa](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to wagtail by integrating it with django-otp
+- [wagtail-2fa](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
 
 ### Media
 
