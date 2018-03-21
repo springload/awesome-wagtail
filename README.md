@@ -190,7 +190,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) by Adam Brenecki – This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) by Mikalai Radchuk - This talk is an introduction to Wagtail in Russian.
 - [How Google uses Wagtail](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) by Kevin Chung.
-- [Introducing Draft.js in Wagtail](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas.
+- [Introducing Draft.js in Wagtail](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) by Thibaud Colas. [Presentation](http://thib.me/introducing-draft-js-in-wagtail).
 - [Let It Go](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) by Matt Wescott.
 - [Developing Solutions for Girls, by Men](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
 - [Wagtail’s first hatch](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) by Bertrand Bordage.
@@ -200,7 +200,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [StreamField editor at UWKM](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) by Geert jan Hoogeslag.
 - [Things i learned at wagtail space](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
 - [Fly Wagtail to a PyCon](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
-- [Wagtail Performance](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen.
+- [Wagtail Performance](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars.
 - [Wagtail Space 2019](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
