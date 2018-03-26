@@ -25,6 +25,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Translations](#translations)
   - [Forms](#forms)
   - [Testing](#testing)
+  - [Groupware](#groupware)
   - [Misc](#misc)
 - [Tools](#tools)
 - [Resources](#resources)
@@ -141,6 +142,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) - A tool to assist with finding broken links on your Wagtail site.
 - [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) – A plugin to assist with accessibility when developing in Wagtail.
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
+
+### Groupware
+
+- [Joyous](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
 
 ### Misc
 
