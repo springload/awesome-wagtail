@@ -25,7 +25,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Translations](#translations)
   - [Forms](#forms)
   - [Testing](#testing)
-  - [Groupware](#groupware)
   - [Misc](#misc)
 - [Tools](#tools)
 - [Resources](#resources)
