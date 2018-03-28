@@ -153,6 +153,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 - [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
+- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views
 
 ## Tools
 
