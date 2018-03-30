@@ -204,7 +204,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Fly Wagtail to a PyCon](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) by Daniele Procida.
 - [Wagtail Performance](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) by Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) by Rajeev J Sebastian.
-- [Wagtail Space easter egg team demo](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars.
+- [Wagtail Space easter egg team demo](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) by Lars. [Code](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) by Maarten Kling.
 
 ### Podcasts
