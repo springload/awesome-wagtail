@@ -6,21 +6,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 *You might also like [Awesome Django](https://gitlab.com/rosarior/awesome-django) and [Awesome Python](https://github.com/vinta/awesome-python). :snake:*
 
-<!-- Start: Kickstarter campaign banner. To remove after the campaign is over, Sun, April 15 2018 5:17 PM UTC +03:00 -->
-
----
-
-<br>
-<h1 align="center"><em>Wagtail’s first Kickstarter campaign is here!</em></h1>
-<p align="center">
-    Please consider supporting <a href="https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch">NoriPyt’s Wagtail Kickstarter</a> to accelerate the development of Wagtail.
-    <a href="https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch"><br><br><img src="https://wagtail.io/static/img/kickstarter.png" width="63" height="45" align="center"></a>
-</p>
-
----
-
-<!-- End: Kickstarter campaign banner. To remove after the campaign is over, Sun, April 15 2018 5:17 PM UTC +03:00 -->
-
 ## Contents
 
 - [General resources](#general-resources)
