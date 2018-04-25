@@ -168,6 +168,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Introducing Wagtail](https://www.springload.co.nz/blog/introducing-wagtail/) - During the last few months we have spent a good amount of time working with Wagtail, a really cool CMS built on top of the well-known Django framework.
 - [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](http://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django) - Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.
+- [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - Working extensively with Wagtail and the surrounding community, we have discovered a range of common pitfalls developers run into when beginning to deliver with Wagtail.
 
 ### Articles
 
@@ -178,6 +179,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Adding document previews to Wagtail CMS](http://filepreviews.io/blog/2017/04/20/adding-document-previews-to-wagtail/)
 - [Wagtail Tutorials: Build Blog Step by Step](https://blog.michaelyin.info/wagtail-tutorials/) - The tutorials teach you how to create a standard blog from scratch step by step.
 - [Python CMS Framework Review: Wagtail vs Django-CMS](https://blog.michaelyin.info/2017/06/19/python-cms-framework-review-wagtail-vs-django-cms/) - Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.
+- [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
+- [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
 
 ### Recipes
 
@@ -214,6 +217,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Videos
 
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - This video will show you how to create and display pages using the Wagtail CMS.
+- [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) – In this weeks video Catherine talks you through the steps you can take to add some useful supplementary text fields to the Wagtail admin, helping you in your journey to creating great sites for yourself and your clients.
+- [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) –  In this weeks video Catherine talks you through the steps you can take to customise your rich text editors to control which features are available to your content editors.
 
 ### Showcases
 
