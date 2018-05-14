@@ -85,6 +85,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Static site generation
 
 - [Wagtail-bakery](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
+- [Wagtail-Netlify](https://github.com/tomdyson/wagtail-netlify) - Easilly publish your statically rendered Wagtail site to Netlify.
 
 ### Settings management
 
@@ -154,7 +155,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
 - [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) - A calendar application for Wagtail.
-- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views
+- [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - Extend Wagtail pages using an actual URL config and django views.
+- [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - Import/Export pages between Wagtail instances.
 
 ## Tools
 
