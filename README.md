@@ -223,6 +223,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Videos
 
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - This video will show you how to create and display pages using the Wagtail CMS.
+- [Draftail extensions – custom entities tutorial](https://www.youtube.com/watch?v=nCMgoTerEb4) – Step-by-step tutorial to make extensions for Draftail.
 - [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) – In this weeks video Catherine talks you through the steps you can take to add some useful supplementary text fields to the Wagtail admin, helping you in your journey to creating great sites for yourself and your clients.
 - [Wagtail Wednesdays #02 - Customising Rich Text Features in Wagtail](https://www.youtube.com/watch?v=ei7ot_Wry3o) –  In this weeks video Catherine talks you through the steps you can take to customise your rich text editors to control which features are available to your content editors.
 
