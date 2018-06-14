@@ -82,6 +82,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail ClearStream](https://github.com/heymonkeyriot/wagtailclearstream) - An app to make Wagtail's StreamField more modular.
 - [UWKM Streamfields](https://github.com/UWKM/uwkm_streamfields) – A basic set of Wagtail StreamField blocks for fun and profit.
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
+- [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
 
 ### Static site generation
 
