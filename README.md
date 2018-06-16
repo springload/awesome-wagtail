@@ -278,6 +278,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [HackSoft](https://github.com/HackSoftware/hacksoft.io) – Website for HackSoft.
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
+- [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 
 ## Contribute
 
