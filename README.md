@@ -58,6 +58,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-blog-app](https://github.com/Tivix/wagtail-blog-app) - A blog application for the Wagtail Django CMS.
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
 - [Peregrine](https://github.com/FlipperPA/peregrine/) - Peregrine is an opinionated blogging solution with categories, RSS feeds, and code syntax highlighting, built on Wagtail driven by Streamfields and Bootstrap 4.
+- [Snotra_RSS](https://github.com/olopost/snotra_rss) - Snotra_RSS is an Atom and RSS news aggregator app for Wagtail.
 
 ### Rich text editor extensions
 
@@ -292,6 +293,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [HackConf](https://github.com/HackSoftware/hackconf.bg) – Website for the annual HackConf.
 - [RTEI](https://github.com/okfn/rtei) – Right to Education Index website (OKFN).
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
+- [Project TIER](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 
 ## Contribute
 
