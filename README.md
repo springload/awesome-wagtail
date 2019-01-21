@@ -263,7 +263,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Lists
 
-- [PyPI - Python Package Index](https://pypi.python.org/pypi?%3Aaction=search&term=Wagtail&submit=search) - Wagtail packages on the Python Package Index.
+- [PyPI - Python Package Index](https://pypi.org/search/?q=Wagtail) - Wagtail packages on the Python Package Index.
 - [Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) - Wagtail projects and packages on Django Packages.
 
 ## Community
