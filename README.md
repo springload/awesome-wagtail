@@ -247,6 +247,21 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) by Andy Chosak.
 - [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
 - [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) by Игорь Мосягин
+- [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) by Tom Dyson.
+- [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057) by Chris Adams. Code.
+- [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) by Coen van der Kamp.
+- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) by Duco Dokter.
+- [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) by Chris Adams.
+- [[WIP] The future of (rich text) authoring experiences in Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=4067) by Thibaud Colas.
+- [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) by Lisa Adams & Codie Roelf.
+- [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) by Coen van der Kamp & Lucas Moeskops.
+- [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) by Lars van de Kerkhof.
+- [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) by Kees Hink. [Code](https://github.com/fourdigits/wagtail_textract).
+- [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) by Matt Wescott.
+- [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) by Janneke Janssen. [Code](https://github.com/LUKKIEN/wagtail-marketing-addons).
+- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) by Arifin Ibne Matin.
+- [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) by Daniele Procida.
+- [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) by Arthur Bayr.
 
 ### Podcasts
 
