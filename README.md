@@ -36,6 +36,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Videos](#videos)
   - [Showcases](#showcases)
   - [Lists](#lists)
+  - [For Editors](#for-editors)
 - [Community](#community)
 - [Open-source sites](#open-source-sites)
 
@@ -290,6 +291,12 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [PyPI - Python Package Index](https://pypi.org/search/?q=Wagtail) - Wagtail packages on the Python Package Index.
 - [Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) - Wagtail projects and packages on Django Packages.
+
+
+## For editors
+
+- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/) - Mozilla's editor facing guide for how to use Wagtail's admin interface. Source for this hosted on [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
+
 
 ## Community
 
