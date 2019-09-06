@@ -1,0 +1,28 @@
+name: CI
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - uses: actions/setup-ruby@v1
+      with:
+        ruby-version: '2.x'
+    - run: gem install awesome_bot
+    - run: awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl
+    - uses: actions/setup-python@v1
+      with:
+        python-version: '3.x'
+        architecture: 'x64'
+    - run: mkdir -p dist/api/v1/ && python .github/api.py
+    - name: deploy
+      if: github.ref == 'master'
+      uses: peaceiris/actions-gh-pages@v2.1.0
+      env:
+        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+        PUBLISH_BRANCH: gh-pages
+        PUBLISH_DIR: ./dist
