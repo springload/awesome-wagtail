@@ -349,6 +349,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [BVSPCA](https://github.com/nfletton/bvspca) – Bow Valley SPCA website.
 - [Project TIER](https://github.com/ProjectTIER/projecttier.org) – Teaching Integrity in Empirical Research.
 - [SecureDrop](https://github.com/freedomofpress/securedrop.org) – Wagtail-powered website of the SecureDrop whistleblower document submission system.
+- [Consumer Financial Protection Bureau](https://github.com/cfpb/cfgov-refresh) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 
 ## Contribute
 
