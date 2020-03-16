@@ -160,6 +160,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) - Factory boy classes for Wagtail.
 - [Wagtail Foliage](https://github.com/harrislapiroff/wagtail-foliage) - Utilities for programmatically building page trees in Wagtail.
 
+### Modeladmin
+
+- [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
+
 ### Misc
 
 - [wagtailmenus](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
