@@ -217,6 +217,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [How to Add Buttons to ModelAdmin Index View](https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/)
 - [How to Prevent Users from Creating Pages by Type](https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/)
 - [Drupal Front End WTF, Wagtail Front End FTW](https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e) - Comparing Drupal and Wagtail Markup and approach to each CMS
+- [How to Create and Manage Menus of Wagtail application](https://www.accordbox.com/blog/wagtail-tutorial-12-how-create-and-manage-menus-wagtail-application/)
 
 ### Recipes
 
