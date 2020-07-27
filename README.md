@@ -141,6 +141,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 - [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 - [Wagtail-Lazyimages](https://github.com/ptrck/wagtail-lazyimages) - A plugin that generates tiny blurry placeholder images for lazy loading Wagtail images medium.com style.
+- [Wagtail Image Import](https://github.com/jacobtoppm/wagtail-image-import) - A plugin for importing images from Google Drive. 
 
 ### Translations
 
