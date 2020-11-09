@@ -229,6 +229,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Recipes
 
 - [Oscar Wagtail demo project](https://github.com/LUKKIEN/oscar-wagtail-demo) - A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
+- [Serafeim's Wagtail FAQ](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
 
 ### Presentations
 
