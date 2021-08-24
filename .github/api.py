@@ -60,7 +60,7 @@ def cut_section(start):
 def parse_readme(readme):
     return {
         'apps': parse_subsections(cut_section('Apps')),
-        'tools': parse_section(cut_section('Tools')),
+        'tools': parse_subsections(cut_section('Tools')),
         'resources': parse_subsections(cut_section('Resources')),
         'sites': parse_section(cut_section('Open-source sites')),
         'metadata': {
