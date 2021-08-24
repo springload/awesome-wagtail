@@ -13,7 +13,7 @@ jobs:
       with:
         ruby-version: '2.x'
     - run: gem install awesome_bot
-    - run: awesome_bot README.md --allow-redirect --allow-dupe --allow-ssl
+    - run: awesome_bot README.md --allow 429 --allow-redirect --allow-dupe --allow-ssl
     - uses: actions/setup-python@v1
       with:
         python-version: '3.x'
