@@ -146,6 +146,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Image Import](https://github.com/jacobtoppm/wagtail-image-import) - A plugin for importing images from Google Drive. 
 - [Wagtail SVG](https://github.com/Aleksi44/wagtailsvg) - A Wagtail module for managing SVG files within the admin.
 - [Wagtail Makeup](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
+- [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
 
 ### Translations
 
