@@ -242,6 +242,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Oscar Wagtail demo project](https://github.com/LUKKIEN/oscar-wagtail-demo) - A Django recipe for integrating Oscar E-commerce into a Wagtail CMS application.
 - [Serafeim's Wagtail FAQ](https://github.com/spapas/wagtail-faq) - Answers and recipes for Wagtail
+- [Consumer Financial Protection Bureau Wagtail development guide](https://github.com/cfpb/development/blob/main/guides/unittesting-django-wagtail.md) - Unit Testing Django and Wagtail
 
 ### Presentations
 
