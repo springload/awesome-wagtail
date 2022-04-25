@@ -155,6 +155,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
+- [Wagtail Localize](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
 
 ### Forms
 
