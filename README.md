@@ -1,8 +1,8 @@
-Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
+Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/)
 ===============
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
-> [Wagtail](https://wagtail.io/) is a Python CMS powered by Django, focusing on flexibility and user experience.
+> [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
 
 *You might also like [Awesome Django](https://github.com/wsvincent/awesome-django) and [Awesome Python](https://github.com/vinta/awesome-python). :snake:*
 
@@ -42,7 +42,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## General resources
 
-- [Official site](https://wagtail.io/)
+- [Official site](https://wagtail.org/)
 - [GitHub repository](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
@@ -219,7 +219,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Getting started
 
-- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
+- [Getting started in Wagtail, a newcomer's perspective](https://wagtail.org/blog/getting-started-wagtail-newcomers-perspective/) - Having used Drupal almost exclusively as my main tool of choice for a while now, I was asked to put together a build using Wagtail. By [@kiwimind](https://twitter.com/kiwimind).
 - [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django) - Wagtail est un CMS relativement récent dans l’écosystème Django. Pour autant, son jeune âge ne l’empêche pas de posséder de nombreuses fonctionnalités que nous découvrirons dans cet article.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - Working extensively with Wagtail and the surrounding community, we have discovered a range of common pitfalls developers run into when beginning to deliver with Wagtail.
 
@@ -233,7 +233,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Python CMS Framework Review: Wagtail vs Django-CMS](https://www.accordbox.com/blog/python-cms-framework-review-wagtail-vs-django-cms/) - Talk about the difference between Django-CMS and Wagtail, the two most popular CMS framework in Python world.
 - [Deploying Wagtail In Production](https://vix.digital/insights/deploying-wagtail-production/)
 - [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
-- [Upgrading to Wagtail 2.0](https://wagtail.io/blog/upgrading-to-wagtail-2/) – Wagtail 2.0 is one of our biggest releases to date.
+- [Upgrading to Wagtail 2.0](https://wagtail.org/blog/upgrading-to-wagtail-2/) – Wagtail 2.0 is one of our biggest releases to date.
 - [Getting started with Draftail extensions](https://thib.me/getting-started-with-draftail-extensions) – Do you want to write extensions for Draftail? This is a good place to start.
 - [Amplify a Wagtail/Django site](https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html) - Prepare you Wagtail site for Accelerated Mobile Pages (AMP).
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
