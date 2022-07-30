@@ -362,6 +362,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Editor's manual](https://docs.wagtail.org/en/stable/editor_manual/index.html) - Wagtail documentation for editors
 - [CCA Wagtail Editor Portal](https://portal.cca.edu/help/wagtail-documentation/) - User facing documentation for Wagtail by California College of the Arts
 - [Caltech Wagtail Editor Portal](https://sites.caltech.edu/) - User facing documentation for Wagtail by Caltech
+- [IoGT Wagtail CMS](https://goodinternet.org/cms-manual/intro/intro-to-cms/) - User facing documentation for Wagtail by What is the IoGT (Internet of Good Things).
 
 ## Community
 
