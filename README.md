@@ -345,6 +345,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Books
 
 - [Wagtail CMS in Action](https://www.manning.com/books/wagtail-cms-in-action) - Book about creating powerful, simple web applications using the Wagtail content management system.
+- [The Definitive Guide to Next.js and Wagtail](https://leanpub.com/the-definitive-guide-to-nextjs-and-wagtail/) - Build a Jamstack web app with Next.js and Wagtail CMS.
+- [Build a Blog With Wagtail CMS (3.0.0)](https://leanpub.com/buildblogwithwagtailcms) - This book will teach you how to build a modern blog with Wagtail CMS.
+- [Build SPA with React and Wagtail (2.0.0)](https://leanpub.com/react-wagtail) - This book will teach you how to build a SPA (single-page application) with React and Wagtail CMS.
+- [Build a Blog with React (SSR) and Wagtail](https://leanpub.com/react-wagtail-ssr) - This book will teach you how to build a blog with React, Wagtail CMS and SSR (Server-Side Rendering).
 
 ### Showcases
 
