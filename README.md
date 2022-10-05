@@ -25,8 +25,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Translations](#translations)
   - [Forms](#forms)
   - [Testing](#testing)
+  - [Modeladmin](#modeladmin)
   - [Misc](#misc)
 - [Tools](#tools)
+  - [Templates & Starter Kits](#templates--starter-kits)
 - [Resources](#resources)
   - [Getting started](#getting-started)
   - [Articles](#articles)
@@ -37,7 +39,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Books](#books)
   - [Showcases](#showcases)
   - [Lists](#lists)
-  - [For Editors](#for-editors)
+- [For editors](#for-editors)
 - [Community](#community)
 - [Open-source sites](#open-source-sites)
 
@@ -101,6 +103,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Wagtail-bakery](https://github.com/moorinteractive/wagtail-bakery) - A set of helpers for baking your Django Wagtail site out as flat files.
 - [Wagtail-Netlify](https://github.com/tomdyson/wagtail-netlify) - Easily publish your statically rendered Wagtail site to Netlify.
+- [wagtail-freezer](https://github.com/gasman/wagtail-freezer) - Generates static HTML sites from a Wagtail project.
 
 ### Settings management
 
@@ -151,6 +154,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Makeup](https://github.com/kevinhowbrook/wagtail-makeup) - A plugin that replaces all your images with [Unsplash](https://unsplash.com/) images.
 - [Rent Free Media](https://github.com/RentFreeMedia/rentfreemedia) - A media distribution framework built on Django and Wagtail. Premium / subscription-based publishing like Patreon or Substack.
 - [Wagtail CLIP](https://github.com/MattSegal/wagtail-clip) - A module for searching the contents of Wagtail images with natural language queries.
+- [Wagtail Stock Images](https://github.com/vicktornl/wagtail-stock-images) - Search stock images (e.g. via Unsplash) and save them to your Wagtail image library.
+- [Wagtail Transcription](https://github.com/LilJack118/wagtail-transcription) - Provides a field to automatically creates transcriptions from YouTube videos.
 
 ### Translations
 
@@ -166,6 +171,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - Build forms in Wagtail's admin for use in streamfields.
 - [wagtail-contact-reply](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 - [Wagtail JotForm](https://github.com/kevinhowbrook/wagtail-jotform) - Embeddable Jotform forms for Wagtail pages.
+- [Wagtail Model Forms](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
 
 ### Testing
 
@@ -201,6 +207,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Trash](https://github.com/Frojd/wagtail-trash) - Will place pages in a trash can from where they can be restored instead of being permanently deleted.
 - [Wagtail PDF View](https://github.com/donhauser/wagtail-pdf) - Render Wagtail pages and models as PDF document using Weasyprint or LaTeX.
 - [Wagtail Grapple](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
+- [Wagtail Secret Sharing](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
+- [Wagtail Cache Invalidator](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 
 ## Tools
 
@@ -369,6 +377,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wellington Wagtail CMS Meetup](https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/) - The first Wagtail CMS meetup in New Zealand!
 - [Wagtail Space](https://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 13th until 15th 2019, Wagtail Space takes place in Arnhem, The Netherlands.
 - [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) – Kickstarter campaign to accelerate the development of Wagtail.
+- [Wagtail updates on Telegram](https://telegram.me/wagtail) - Unofficial Telegram channel for general Wagtail updates.
+- [Wagtail support on Telegram](https://telegram.me/wagtailcms) - Unofficial Telegram channel for support questions and discussions.
 
 ## Open-source sites
 
@@ -395,6 +405,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Consumer Financial Protection Bureau](https://github.com/cfpb/consumerfinance.gov) – The source code of the Wagtail-powered consumerfinance.gov is available here on GitHub.
 - [WesternFriend](https://github.com/WesternFriend/WF-website) - community website with directory, ecommerce, and online subscription
 - [WagtailParadise](https://github.com/abrahamrome/WagtailParadise) - demo Wagtail site showing common features and recipes
+- [Outreachy website](https://github.com/outreachy/website/) - Website for Outreachy, who provide internships in open source and open science.
 
 ## Contribute
 
