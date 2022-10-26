@@ -225,6 +225,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail react blog](https://github.com/AccordBox/wagtail-react-blog) - SPA blog built with React, Bootstrap4, Storybook and Wagtail Rest API. It also supports headless preview.
 - [CodeRed CMS](https://github.com/coderedcorp/coderedcms) - a professionally supported WordPress alternative for building marketing websites. Create pages, blogs, forms, and every Bootstrap 4 component in the wagtail admin out-of-the-box! [Learn more](https://www.coderedcorp.com/cms/) or [watch the lightning talk](https://www.youtube.com/watch?v=U1Y-jgeGh7g&t=228s).
 - [Wordpress to Wagtail migration kit](https://github.com/torchbox/wagtail-wordpress-import) - Import WordPress blog content from an XML file into Wagtail.
+- [cookiecutter-wagtail-package](https://github.com/wagtail/cookiecutter-wagtail-package) - A cookiecutter template for building Wagtail add-on packages.
 
 ## Resources
 
