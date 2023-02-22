@@ -48,7 +48,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Official site](https://wagtail.org/)
 - [GitHub repository](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
-- [Roadmap](https://github.com/wagtail/wagtail/projects/1)
+- [Roadmap](https://wagtail.org/roadmap/)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
 - [Other resources](#resources)
 
