@@ -172,6 +172,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-contact-reply](https://github.com/KalobTaulien/wagtail-contact-reply) - Reply directly to form submissions from the Wagtail admin
 - [Wagtail JotForm](https://github.com/kevinhowbrook/wagtail-jotform) - Embeddable Jotform forms for Wagtail pages.
 - [Wagtail Model Forms](https://github.com/vicktornl/wagtail-model-forms) - The Wagtail Form Builder functionalities available for your models/snippets.
+- [Wagtail Formation](https://github.com/mwesterhof/wagtail_formation) - Fully dynamic and easy to use CMS-able forms for wagtail
 
 ### Testing
 
