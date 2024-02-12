@@ -231,6 +231,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail for Platform.sh](https://github.com/platformsh-templates/wagtail) - Wagtail template for Platform.sh.
 - [cookiecutter-wagtail-vix](https://github.com/engineervix/cookiecutter-wagtail-vix) - A matteries-included, reusable project skeleton to serve as a starting point for a Wagtail project.
 - [Wagtail Quickstart with docker](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
+- [State Design System (DSFR) starter](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
 ## Resources
 
