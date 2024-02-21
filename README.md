@@ -85,6 +85,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-generic-chooser](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 - [wagtail-multi-upload](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 - [wagtail-color-panel](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
+- [Wagtail Ace Editor](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE- like code editor right in your Wagtail admin!
 
 ### StreamField
 
@@ -136,12 +137,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Wagtail Experiments](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
 - [Wagtail Personalisation](https://github.com/LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
+- [Wagtail Feedback](https://github.com/Nigel2392/wagtail_feedback) - Ask your customers for their feedback on pages.
 
 ### Security
 
 - [wagtailenforcer](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
 - [wagtail-yubikey](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
 - [wagtail-2fa](https://github.com/labd/wagtail-2fa) - Add two-factor authentication to Wagtail by integrating it with django-otp.
+- [Request Filters](https://github.com/Nigel2392/request_filters) - Block, whitelist or log requests at runtime with a simple Wagtail admin UI
 
 ### Media
 
@@ -163,6 +166,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 - [Wagtail Localize](https://github.com/wagtail/wagtail-localize) - A translation plugin for the Wagtail CMS, allows pages or snippets to be translated within Wagtail's admin interface.
+- [Locale Selector](https://github.com/Nigel2392/locale_selector) - A simple modal/banner popup to let users choose another language when available
 
 ### Forms
 
@@ -187,6 +191,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 - [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 - [wagtail-treemodeladmin](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
+
+### Tasks
+
+- [Wagtail Celery Beat](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin!
 
 ### Misc
 
@@ -214,6 +222,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Secret Sharing](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 - [Wagtail Cache Invalidator](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 - [Wagtail Headless Preview](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
+- [Wagtail Word](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to wagtail!
+- [Wagtail Showables](https://github.com/Nigel2392/wagtail_showables) - Hide or show entire groups of blocks at runtime
 
 ## Tools
 
