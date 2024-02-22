@@ -189,7 +189,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 - [wagtail-treemodeladmin](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
 
-
 ### Misc
 
 - [wagtailmenus](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
