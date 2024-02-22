@@ -26,6 +26,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Forms](#forms)
   - [Testing](#testing)
   - [Modeladmin](#modeladmin)
+  - [Asynchronous (tasks)](#asynchronous-tasks)
   - [Misc](#misc)
 - [Tools](#tools)
   - [Templates & Starter Kits](#templates--starter-kits)
@@ -188,6 +189,10 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 - [wagtail-treemodeladmin](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
 
+### Asynchronous (tasks)
+
+- [Wagtail Celery Beat](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin!
+
 ### Misc
 
 - [wagtailmenus](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
@@ -214,7 +219,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Secret Sharing](https://github.com/vicktornl/wagtail-secret-sharing) - Keep sensitive information out of your chat logs and email via a secure sharing protocol
 - [Wagtail Cache Invalidator](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
 - [Wagtail Headless Preview](https://github.com/torchbox/wagtail-headless-preview) -  Previews for headless Wagtail setups
-- [Wagtail Word](https://github.com/Nigel2392/wagtail_word) - A way to upload your word (.docx, .doc) documents as pages to wagtail!
 
 ## Tools
 
