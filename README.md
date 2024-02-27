@@ -85,7 +85,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-generic-chooser](https://github.com/wagtail/wagtail-generic-chooser) - provides base classes for building chooser popups and form widgets for the Wagtail admin, matching the look and feel of Wagtail's built-in choosers for pages, documents, snippets and images.
 - [wagtail-multi-upload](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 - [wagtail-color-panel](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
-- [Wagtail Ace Editor](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE- like code editor right in your Wagtail admin!
+- [Wagtail Ace Editor](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
 
 ### StreamField
 
