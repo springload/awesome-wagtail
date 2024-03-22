@@ -111,6 +111,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 - [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
 - [Wagtail-Flags](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
+- [Wagtail-Waffle](https://github.com/TheCodingSheikh/wagtail-waffle) - Manage django waffle in Wagtail.
 
 ### E-commerce
 
