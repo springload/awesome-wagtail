@@ -87,6 +87,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-multi-upload](https://github.com/spapas/wagtail-multi-upload) - allows uploading of multiple related images for a page.
 - [wagtail-color-panel](https://github.com/marteinn/wagtail-color-panel) - Introduces panels for selecting colors in Wagtail.
 - [Wagtail Ace Editor](https://github.com/Nigel2392/wagtail_ace_editor) - An IDE-like code editor right in your Wagtail admin.
+- [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 
 ### StreamField
 
