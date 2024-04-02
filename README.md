@@ -64,6 +64,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Django Wagtail Feeds](https://github.com/chrisdev/django-wagtail-feeds) - Add support for RSS Feeds, Facebook Instant Articles and Apple News Publisher to your Wagtail CMS Projects.
 - [Snotra_RSS](https://github.com/olopost/snotra_rss) - Snotra_RSS is an Atom and RSS news aggregator app for Wagtail.
 - [wagtail-live](https://github.com/wagtail/wagtail-live) - Build live blogs with Wagtail.
+- [Wagtail-FEdit](https://github.com/Nigel2392/wagtail_fedit) - Add frontend editing to your Wagtail site.
 
 ### Rich text editor extensions
 
