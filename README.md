@@ -27,6 +27,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Testing](#testing)
   - [Modeladmin](#modeladmin)
   - [Asynchronous (tasks)](#asynchronous-tasks)
+  - [Content Management](#content-management)
   - [Misc](#misc)
 - [Tools](#tools)
   - [Templates & Starter Kits](#templates--starter-kits)
@@ -196,6 +197,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Celery Beat](https://github.com/Nigel2392/wagtail_celery_beat) - A way to manage your Django Celery Beat tasks inside of the Wagtail admin.
 
 ### Content Management
+
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 - [Wagtail Transfer](https://github.com/wagtail/wagtail-transfer) - An official extension for Wagtail allowing content to be transferred between multiple instances of a Wagtail project
