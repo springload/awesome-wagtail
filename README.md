@@ -77,6 +77,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [wagtail-readinglevel](https://github.com/vixdigital/wagtail-readinglevel) – Wagtail plugin to determine the reading level of text input into a rich text field.
 - [Wagtail EditorJS](https://github.com/Nigel2392/wagtail_editorjs) - An [EditorJS](https://editorjs.io/) widget with great support for Wagtail's page, image and document choosers.
 - [Wagtail Terms](https://github.com/smark-1/wagtailterms) - A plugin to add a glossary terms entity to the Draftail editor.
+- [Wagtail Text Alignment](https://github.com/Nigel2392/wagtail_text_alignment) - Align text, headings and more in your Wagtail richtext editor.
 
 ### Widgets
 
