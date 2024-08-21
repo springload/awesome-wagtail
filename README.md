@@ -243,6 +243,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Quickstart with docker](https://github.com/saevarom/wagtail-start-docker) - A template repository to get started quickly with the latest Wagtail in docker.
 - [State Design System (DSFR) starter](https://github.com/numerique-gouv/content-manager) - Wagtail template and starter kit from the French government.
 
+### Templates (start command)
+
+- [Wagtail tutorial template](https://github.com/thibaudcolas/wagtail-tutorial-template)
+- [Wagtail news template](https://github.com/torchbox/wagtail-news-template)
+
 ## Resources
 
 ### Getting started
