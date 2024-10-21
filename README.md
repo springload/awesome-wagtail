@@ -397,7 +397,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Django Chat: Thibaud Colas](https://djangochat.com/episodes/thibaud-colas-2025-dsf-board-nominations) - An interview with a core team member of Wagtail, discussing the current status of Django, upcoming DSF Board elections, Wagtail roadmap & community opportunities.
 
 
-
 ### Videos
 
 - [Learn Wagtail](https://learnwagtail.com/) - Regular video tutorials about all aspects of Wagtail.
