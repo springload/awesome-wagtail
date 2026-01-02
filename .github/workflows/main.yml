@@ -1,28 +1,37 @@
 name: CI
 
 on:
-  push: {branches: ["*", "*/*"]}
+  push:
+    branches: master
+  pull_request:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v1
-    - uses: actions/setup-ruby@v1
-      with:
-        ruby-version: '2.x'
-    - run: gem install awesome_bot
-    - run: awesome_bot README.md --request-delay 0.1 --allow-redirect --allow-dupe --allow-ssl
-    - uses: actions/setup-python@v1
-      with:
-        python-version: '3.x'
-        architecture: 'x64'
-    - run: mkdir -p dist/api/v1/ && python .github/api.py
-    - name: deploy
-      if: github.ref == 'refs/heads/master'
-      uses: peaceiris/actions-gh-pages@v2.1.0
-      env:
-        ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        PUBLISH_BRANCH: gh-pages
-        PUBLISH_DIR: ./dist
+      - uses: actions/checkout@v6
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - run: gem install awesome_bot
+      - run: awesome_bot README.md --request-delay 0.1 --allow-redirect --allow-dupe --allow-ssl
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.14"
+      - run: python .github/api.py
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+        with:
+          path: ./dist
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/deploy-pages@v4
+        id: deployment
