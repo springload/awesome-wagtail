@@ -11,11 +11,10 @@ jobs:
 
     steps:
       - uses: actions/checkout@v6
-      - uses: ruby/setup-ruby@v1
+      - uses: lycheeverse/lychee-action@v2
         with:
-          ruby-version: "3.3"
-      - run: gem install awesome_bot
-      - run: awesome_bot README.md --request-delay 0.1 --allow-redirect --allow-dupe --allow-ssl
+          args: --verbose --no-progress --accept 200,429 README.md
+          fail: true
       - uses: actions/setup-python@v5
         with:
           python-version: "3.14"
