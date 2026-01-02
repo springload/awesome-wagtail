@@ -1,27 +1,26 @@
-# -*- coding: utf-8 -*-
-#
-# This script parses the README.md and generates a machine-readable
-# data structure from it, for publication as an API.
-#
-# https://springload.github.io/awesome-wagtail/api/v1/readme.json
-#
-# It is automatically ran as part of Travis builds, also validating the README
-# formatting, and the API endpoint is deployed on successful builds on master.
-#
-# See also:
-# - https://djangopackages.org/api/v3/grids/wagtail-cms/
-# - https://github.com/awesomerank/rank
+"""
+This script parses the README.md and generates a machine-readable
+data structure from it, for publication as an API.
 
-from __future__ import absolute_import, unicode_literals
+https://springload.github.io/awesome-wagtail/api/v1/readme.json
+
+It is automatically ran as part of Travis builds, also validating the README
+formatting, and the API endpoint is deployed on successful builds on master.
+
+See also:
+- https://djangopackages.org/api/v3/grids/wagtail-cms/
+- https://github.com/awesomerank/rank
+"""
 
 import json
-import codecs
-import datetime
+from datetime import datetime, timezone
+from pathlib import Path
 
 API_PATH = '/api/v1/readme.json'
 
 
-def parse_line(line, category):
+def parse_line(line: str, category: str) -> dict[str, str]:
+    """Parse a single line from the README into a structured dictionary."""
     print(line)
     name = line.split('](')[0][3:]
     url = line.split('](')[1].split(')')[0]
@@ -35,11 +34,13 @@ def parse_line(line, category):
     }
 
 
-def parse_section(section, category=''):
-    return [parse_line(l, category) for l in section.split('\n')]
+def parse_section(section: str, category: str = '') -> list[dict[str, str]]:
+    """Parse a section of lines into a list of structured items."""
+    return [parse_line(line, category) for line in section.split('\n')]
 
 
-def parse_subsections(section):
+def parse_subsections(section: str) -> list[dict[str, str]]:
+    """Parse a section containing multiple subsections."""
     subsections = section.split('### ')[1:]
 
     items = []
@@ -53,33 +54,46 @@ def parse_subsections(section):
     return items
 
 
-def cut_section(start):
-    return readme.split('## %s\n\n' % start)[1].split('\n\n## ')[0]
+def cut_section(readme: str, start: str) -> str:
+    """Extract a specific section from the README."""
+    return readme.split(f'## {start}\n\n')[1].split('\n\n## ')[0]
 
 
-def parse_readme(readme):
+def parse_readme(readme: str) -> dict:
+    """Parse the entire README into a structured dictionary."""
     return {
-        'apps': parse_subsections(cut_section('Apps')),
-        'tools': parse_subsections(cut_section('Tools')),
-        'resources': parse_subsections(cut_section('Resources')),
-        'sites': parse_section(cut_section('Open-source sites')),
+        'apps': parse_subsections(cut_section(readme, 'Apps')),
+        'tools': parse_subsections(cut_section(readme, 'Tools')),
+        'resources': parse_subsections(cut_section(readme, 'Resources')),
+        'sites': parse_section(cut_section(readme, 'Open-source sites')),
         'metadata': {
-            'updated': '%sZ' % datetime.datetime.utcnow().isoformat(),
+            'updated': datetime.now(timezone.utc).isoformat(),
         },
     }
 
 
 if __name__ == '__main__':
-    readme = open('README.md', 'r').read()
+    readme_path = Path('README.md')
 
     try:
+        readme = readme_path.read_text(encoding='utf-8')
         parsed_readme = parse_readme(readme)
-        json_path = './dist%s' % API_PATH
 
-        with codecs.open(json_path, mode='w+', encoding='utf8') as f:
-            readme_payload = json.dumps(parsed_readme, indent=True, ensure_ascii=False)
-            print(readme_payload)
-            f.write(readme_payload)
-    except:
+        json_path = Path(f'./dist{API_PATH}')
+        json_path.parent.mkdir(parents=True, exist_ok=True)
+
+        readme_payload = json.dumps(parsed_readme, indent=2, ensure_ascii=False)
+        print(readme_payload)
+
+        json_path.write_text(readme_payload, encoding='utf-8')
+
+    except FileNotFoundError as e:
+        print(f'Error: Could not find file - {e}')
+        raise
+    except (KeyError, IndexError) as e:
+        print(f'Error: README formatting issue - {e}')
         print('Is the README well formatted?')
+        raise
+    except Exception as e:
+        print(f'Unexpected error: {e}')
         raise
