@@ -14,7 +14,7 @@ indent_style = space
 indent_size = 4
 
 # Rules for tool configuration.
-[{package.json,*.yml}]
+[{package.json,*.yml,*.md}]
 indent_size = 2
 
 # Rules for markdown documents.
