@@ -64,6 +64,7 @@ bower_components
 .idea
 .vagrant
 .anaconda
+.claude
 
 # -------------------------------------------------
 # Generated files
