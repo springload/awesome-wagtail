@@ -1,4 +1,4 @@
-# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/)
+# Awesome Wagtail [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src="https://cdn.jsdelivr.net/gh/springload/awesome-wagtail@ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.org/)
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
 > [Wagtail](https://wagtail.org/) is a Python CMS powered by Django, focusing on flexibility and user experience.
@@ -384,7 +384,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [Unobtrusive internationalisation - Wagtail Space NL 2022](https://www.youtube.com/watch?v=_dhScxTdtjA) by Lars van de Kerkhof.
 - [Moving Wagtail pages - Wagtail Space NL 2022](https://www.youtube.com/watch?v=OFqPKffSVWI) by Viggo de Vries.
 - [Wagtail architecture options, or should I go headless - Wagtail Space NL 2022](https://www.youtube.com/watch?v=JMULuz6RzjQ) by Dan Braghis.
-- [Wagtail headless and NextJS frontend - Wagtail Space NL 2022](https://www) by Lucas Moeskops.
+- [Wagtail headless and NextJS frontend - Wagtail Space NL 2022](https://www.youtube.com/watch?v=s8cJhFtjqZA) by Lucas Moeskops.
 
 ### Podcasts
 
@@ -430,7 +430,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [Wagtail Editor's manual](https://docs.wagtail.org/en/stable/editor_manual/index.html) - Wagtail documentation for editors
 - [CCA Wagtail Editor Portal](https://portal.cca.edu/help/wagtail-documentation/) - User facing documentation for Wagtail by California College of the Arts
 - [Caltech Wagtail Editor Portal](https://sites.caltech.edu/) - User facing documentation for Wagtail by Caltech
-- [IoGT Wagtail CMS](https://cms-manual.goodinternet.org/) - User facing documentation for Wagtail by the IoGT (Internet of Good Things).
+- [IoGT Wagtail CMS](https://cms-manual.goodinternet.org/en/) - User facing documentation for Wagtail by the IoGT (Internet of Good Things).
 
 ## Community
 
