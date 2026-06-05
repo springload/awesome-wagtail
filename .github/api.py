@@ -2,7 +2,7 @@
 This script parses the README.md and generates a machine-readable
 data structure from it, for publication as an API.
 
-https://springload.github.io/awesome-wagtail/api/v1/readme.json
+https://wagtail.github.io/awesome-wagtail/api/v1/readme.json
 
 It is automatically ran as part of Travis builds, also validating the README
 formatting, and the API endpoint is deployed on successful builds on master.

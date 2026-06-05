@@ -21,11 +21,11 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions!
 
-Once you submit the pull request, the links will be checked by [awesome_bot](https://github.com/dkhamsing/awesome_bot) via [our Travis build](https://travis-ci.org/springload/awesome-wagtail).
+Once you submit the pull request, the links will be checked by [awesome_bot](https://github.com/dkhamsing/awesome_bot) via [our CI build](https://github.com/wagtail/awesome-wagtail/actions).
 
 ### Spreading the word
 
-If you want to help spread the word about this list, consider adding a mention of it in your project's README: `*Check out [Awesome Wagtail](https://github.com/springload/awesome-wagtail) for more awesome packages and resources from the Wagtail community.*`
+If you want to help spread the word about this list, consider adding a mention of it in your project's README: `*Check out [Awesome Wagtail](https://github.com/wagtail/awesome-wagtail) for more awesome packages and resources from the Wagtail community.*`
 
 ### Updating your PR
 
@@ -38,6 +38,6 @@ A lot of times, making a PR adhere to the standards above can be difficult. If t
 
 ### Reusing the content
 
-The content of this list is published as an API hosted on [GitHub Pages](https://pages.github.com/): [https://springload.github.io/awesome-wagtail/api/v1/readme.json](https://springload.github.io/awesome-wagtail/api/v1/readme.json).
+The content of this list is published as an API hosted on [GitHub Pages](https://pages.github.com/): [https://wagtail.github.io/awesome-wagtail/api/v1/readme.json](https://wagtail.github.io/awesome-wagtail/api/v1/readme.json).
 
-Otherwise, the README content can also be fetched with [RawGit](https://rawgit.com/): [https://rawgit.com/springload/awesome-wagtail/master/README.md](https://rawgit.com/springload/awesome-wagtail/master/README.md).
+Otherwise, the README content can also be fetched with [jsDelivr](https://www.jsdelivr.com/): [https://cdn.jsdelivr.net/gh/wagtail/awesome-wagtail/master/README.md](https://cdn.jsdelivr.net/gh/wagtail/awesome-wagtail/master/README.md).
