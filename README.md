@@ -17,7 +17,6 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
   - [Settings management](#settings-management)
   - [E-commerce](#e-commerce)
   - [SEO and SMO](#seo-and-smo)
-  - [Analytics](#analytics)
   - [Customer experience](#customer-experience)
   - [Security](#security)
   - [Media](#media)
@@ -25,7 +24,6 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
   - [Forms](#forms)
   - [Testing](#testing)
   - [Modeladmin](#modeladmin)
-  - [Asynchronous (tasks)](#asynchronous-tasks)
   - [Content Management](#content-management)
   - [Misc](#misc)
 - [Tools](#tools)
@@ -36,9 +34,8 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
   - [Presentations](#presentations)
   - [Podcasts](#podcasts)
   - [Videos](#videos)
-  - [Books](#books)
   - [Showcases](#showcases)
-  - [Lists](#lists)
+  - [Package lists](#package-lists)
 - [For editors](#for-editors)
 - [Community](#community)
 - [Open-source sites](#open-source-sites)
@@ -97,8 +94,6 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [Wagtail Yoast](https://github.com/Aleksi44/wagtailyoast) - A tool to improve readability of your texts with SEO recommendations.
 - [Wagtail SEO](https://github.com/coderedcorp/wagtail-seo) - Search engine and social media optimization for Wagtail.
 
-### Analytics
-
 ### Customer experience
 
 - [Wagtail Experiments](https://github.com/torchbox/wagtail-experiments) – A/B testing for Wagtail.
@@ -137,8 +132,6 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [wagtail-admin-list-controls](https://github.com/ixc/wagtail-admin-list-controls) - Adds advanced search, ordering and layout controls to Wagtail's modeladmin list views.
 - [wagtail-rangefilter](https://github.com/wunderweiss/wagtail-rangefilter) - Integrates django-admin-rangefilter into Wagtail's ModelAdmin.
 - [wagtail-treemodeladmin](https://github.com/cfpb/wagtail-treemodeladmin) - Page explorer-like navigation of Django model relationships using ModelAdmin.
-
-### Asynchronous (tasks)
 
 ### Content Management
 
