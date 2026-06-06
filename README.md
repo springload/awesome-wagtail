@@ -393,7 +393,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](.github/CONTRIBUTING.md) first.
+Please read the [contribution guidelines](docs/CONTRIBUTING.md) first.
 
 ## License
 
