@@ -75,6 +75,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - Search Wagtail pages by the StreamField blocks they contain.
 - [Wagtail Code Block](https://github.com/wagtail-nest/wagtailcodeblock) - StreamField code blocks for the Wagtail CMS with real-time PrismJS Syntax Highlighting.
+- [wagtail-unirate](https://github.com/UniRate-API/wagtail-unirate) - Currency exchange rate blocks (`CurrencyRateBlock`, `CurrencyConversionBlock`, `MultiCurrencyPriceBlock`) and template tags powered by the UniRate API, with optional Django cache integration.
 
 ### Static site generation
 
