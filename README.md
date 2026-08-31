@@ -153,6 +153,7 @@ _You might also like [Awesome Django](https://github.com/wsvincent/awesome-djang
 - [wagtail-pdf-view](https://github.com/donhauser/wagtail-pdf) - PDF rendering views for the Wagtail CMS.
 - [Wagtail Grapple](https://github.com/torchbox/wagtail-grapple) - A Wagtail app that makes building GraphQL endpoints a breeze.
 - [Wagtail Cache Invalidator](https://github.com/vicktornl/wagtail-cache-invalidator) - Invalidate and purge (frontend) cache via an user-friendly interface in the Wagtail CMS.
+- [wagtail-subscriptions](https://github.com/mojnomiya/wagtail_subscriptions) - Subscription management system for Wagtail CMS with Stripe integration, feature-based access control, and multi-tenant support.
 
 ## Tools
 
